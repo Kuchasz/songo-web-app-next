@@ -47,8 +47,9 @@ export default function ContactPage() {
                 </svg>
               </div>
               <h3 className="text-lg font-bold text-gray-900 mb-2">{pl["contact.index.address"]}</h3>
-              <p className="text-gray-600">Sułkowice, ul. Beskidzka 169</p>
-              <p className="text-gray-600">34-120 Andrychów</p>
+              <a href="https://maps.app.goo.gl/VbEPVfxrQNvFohQu5" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-[#cff245] transition-colors block">
+                Sułkowice, ul. Beskidzka 169<br />34-120 Andrychów
+              </a>
             </div>
           </div>
         </div>
