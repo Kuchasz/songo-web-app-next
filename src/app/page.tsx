@@ -21,7 +21,7 @@ export default async function Home() {
           </p>
           <div className="flex flex-wrap gap-4 items-center justify-center">
             <NavigationButton
-              href="/live"
+              href="/movies"
               text="Posłuchaj nas!"
               type="primary"
             />
