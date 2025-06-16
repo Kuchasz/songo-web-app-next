@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<plyty>
+	<plyta>
+		<tytul>Songo</tytul>
+		<okladka>cover_jedynka.jpg</okladka>
+		<opis>Na tej płycie zespół Songo and Zuza wykonuje utwory muzyki tanecznej</opis>
+		<utwory>
+			<utwor>
+				<tytul>Tańczę z nim do rana</tytul>
+				<autor>Majk</autor>
+				<link>t_15_tancze_z_nim_do_rana.mp3</link>
+				<dlugosc>289</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>I will always love you</tytul>
+				<autor>W. Houston</autor>
+				<link>t_1_i_will_always_love_you.mp3</link>
+				<dlugosc>289</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Takiego Janicka</tytul>
+				<autor>Siklawa</autor>
+				<link>t_2_takiego_janicka.mp3</link>
+				<dlugosc>239</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Zatańczysz ze mną</tytul>
+				<autor>K. Krawczyk</autor>
+				<link>t_3_zatanczysz_ze_mna.mp3</link>
+				<dlugosc>223</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Kocham Cię</tytul>
+				<autor>S. Uniatowski</autor>
+				<link>t_4_kocham_cie.mp3</link>
+				<dlugosc>223</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Wasted – Pa pa</tytul>
+				<autor>Margaret</autor>
+				<link>t_5_wasted.mp3</link>
+				<dlugosc>227</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Polka dziadek</tytul>
+				<autor>z rep. lud.</autor>
+				<link>t_6_polka_dziadek.mp3</link>
+				<dlugosc>232</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>What a wonderful world</tytul>
+				<autor>L. Armstrong</autor>
+				<link>t_7_what_a_wonderful_world.mp3</link>
+				<dlugosc>295</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Marsz niemiecki</tytul>
+				<autor>z rep. lud.</autor>
+				<link>t_8_marsz_niemiecki.mp3</link>
+				<dlugosc>160</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Mamma mia</tytul>
+				<autor>ABBA</autor>
+				<link>t_9_mamma_mia.mp3</link>
+				<dlugosc>220</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Yakety sax</tytul>
+				<autor>B. Randolph</autor>
+				<link>t_10_yakety_sax.mp3</link>
+				<dlugosc>158</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Wiązanka walców</tytul>
+				<autor>z rep. lud.</autor>
+				<link>t_11_wiazanka_walcow.mp3</link>
+				<dlugosc>251</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Kanikuły</tytul>
+				<autor>Code Red</autor>
+				<link>t_13_kanikuly.mp3</link>
+				<dlugosc>223</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Lilly was here</tytul>
+				<autor>Code. Dulfer</autor>
+				<link>t_14_lilly_was_here.mp3</link>
+				<dlugosc>223</dlugosc>
+			</utwor>
+		</utwory>
+	</plyta>
+	<plyta>
+		<tytul>New project</tytul>
+		<okladka>cover_wlasne.jpg</okladka>
+		<opis>Ta płyta zawiera autorskie nagrania zespołu Songo and Zuza</opis>
+		<utwory>
+			<utwor>
+				<tytul>Andrychowski Rock and Roll</tytul>
+				<autor>z rep. Songo &amp; Zuza</autor>
+				<link>n_1_andrychowski_rock_and_roll.mp3</link>
+				<dlugosc>185</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Robie to co chce</tytul>
+				<autor>z rep. Songo &amp; Zuza and THOMAS</autor>
+				<link>n_2_robie_co_chce.mp3</link>
+				<dlugosc>185</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Chciałabym ci dać chciała</tytul>
+				<autor>z rep. Songo &amp; Zuza</autor>
+				<link>n_3_chciala_bym_ci_dac_chciala.mp3</link>
+				<dlugosc>185</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Jesteś mój</tytul>
+				<autor>z rep. Songo &amp; Zuza</autor>
+				<link>n_4_jestes_moj.mp3</link>
+				<dlugosc>185</dlugosc>
+			</utwor>
+		</utwory>
+	</plyta>
+	<plyta>
+		<tytul>Święta z Songo &amp; Zuza</tytul>
+		<okladka>cover_swiateczne.jpg</okladka>
+		<opis>Na tej płycie zespół Songo and Zuza wykonuje utwory świąteczne i religijne</opis>
+		<utwory>
+			<utwor>
+				<tytul>Jingle Bells</tytul>
+				<autor>utwór świąteczny</autor>
+				<link>s_1_jingle_bells.mp3</link>
+				<dlugosc>199</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Gdy Śliczna Panna</tytul>
+				<autor>kołysanka</autor>
+				<link>s_2_gdy_sliczna_panna.mp3</link>
+				<dlugosc>93</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Barka</tytul>
+				<autor>utwór nagrany z okazji stulecia  urodzin Jana Pawła II</autor>
+				<link>s_3_barka.mp3</link>
+				<dlugosc>127</dlugosc>
+			</utwor>
+		</utwory>
+	</plyta>
+	<plyta>
+		<tytul>The instrumental standards</tytul>
+		<okladka>cover_standardy.jpg</okladka>
+		<opis>Na tej płycie zespół Songo and Zuza wykonuje światowe standardy w wersjach instrumentalnych</opis>
+		<utwory>
+			<utwor>
+				<tytul>All of me</tytul>
+				<autor>G. Marks</autor>
+				<link>all_of_me.mp3</link>
+				<dlugosc>172</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Petit Flour</tytul>
+				<autor>S. Bechet</autor>
+				<link>petit_flour.mp3</link>
+				<dlugosc>227</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Tico, tico</tytul>
+				<autor>Z. Abreu</autor>
+				<link>tico_tico.mp3</link>
+				<dlugosc>263</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>I can't stop loving you</tytul>
+				<autor>R. Charles</autor>
+				<link>i_can_stop.mp3</link>
+				<dlugosc>352</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Oczy czarne</tytul>
+				<autor>J. Hrebinka</autor>
+				<link>oczy_czarne.mp3</link>
+				<dlugosc>174</dlugosc>
+			</utwor>
+		</utwory>
+	</plyta>
+	<plyta>
+		<tytul>Church songs</tytul>
+		<okladka>cover_church.jpg</okladka>
+		<opis>Na tej płycie zespół Songo and Zuza wykonuje utwory grane w kościele</opis>
+		<utwory>
+			<utwor>
+				<tytul>Barka instrumentalnie</tytul>
+				<autor>C. Gabarain</autor>
+				<link>barka.mp3</link>
+				<dlugosc>199</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Ave Maria</tytul>
+				<autor>F. Schubert</autor>
+				<link>ave_maria.mp3</link>
+				<dlugosc>93</dlugosc>
+			</utwor>
+			<utwor>
+				<tytul>Ave Maria</tytul>
+				<autor>J.S. Bach</autor>
+				<link>ave_maria_bach.mp3</link>
+				<dlugosc>127</dlugosc>
+			</utwor>
+		</utwory>
+	</plyta>
+</plyty>

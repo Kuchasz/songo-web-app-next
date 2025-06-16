@@ -1,0 +1,397 @@
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "utf-8",
+      "standalone": "yes"
+    }
+  },
+  "zdjecia": {
+    "zdjecie": [
+      {
+        "miniatura": {
+          "_text": "d-foto-1-m"
+        },
+        "powiekszone": {
+          "_text": "d-foto-1"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "d-foto-2-m"
+        },
+        "powiekszone": {
+          "_text": "d-foto-2"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "d-foto-3-m"
+        },
+        "powiekszone": {
+          "_text": "d-foto-3"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "d-foto-4-m"
+        },
+        "powiekszone": {
+          "_text": "d-foto-4"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "d-foto-5-m"
+        },
+        "powiekszone": {
+          "_text": "d-foto-5"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "d-foto-6-m"
+        },
+        "powiekszone": {
+          "_text": "d-foto-6"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "d-foto-7-m"
+        },
+        "powiekszone": {
+          "_text": "d-foto-7"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "e-foto-1-m"
+        },
+        "powiekszone": {
+          "_text": "e-foto-1"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "e-foto-2-m"
+        },
+        "powiekszone": {
+          "_text": "e-foto-2"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "e-foto-3-m"
+        },
+        "powiekszone": {
+          "_text": "e-foto-3"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-1-m"
+        },
+        "powiekszone": {
+          "_text": "foto-1"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-2-m"
+        },
+        "powiekszone": {
+          "_text": "foto-2"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-3-m"
+        },
+        "powiekszone": {
+          "_text": "foto-3"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-4-m"
+        },
+        "powiekszone": {
+          "_text": "foto-4"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-5-m"
+        },
+        "powiekszone": {
+          "_text": "foto-5"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-6-m"
+        },
+        "powiekszone": {
+          "_text": "foto-6"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-7-m"
+        },
+        "powiekszone": {
+          "_text": "foto-7"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-8-m"
+        },
+        "powiekszone": {
+          "_text": "foto-8"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-9-m"
+        },
+        "powiekszone": {
+          "_text": "foto-9"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "foto-10-m"
+        },
+        "powiekszone": {
+          "_text": "foto-10"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "1-m"
+        },
+        "powiekszone": {
+          "_text": "1"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "2-m"
+        },
+        "powiekszone": {
+          "_text": "2"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "3-m"
+        },
+        "powiekszone": {
+          "_text": "3"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "4-m"
+        },
+        "powiekszone": {
+          "_text": "4"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "5-m"
+        },
+        "powiekszone": {
+          "_text": "5"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "6-m"
+        },
+        "powiekszone": {
+          "_text": "6"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "7-m"
+        },
+        "powiekszone": {
+          "_text": "7"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "8-m"
+        },
+        "powiekszone": {
+          "_text": "8"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "9-m"
+        },
+        "powiekszone": {
+          "_text": "9"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "10-m"
+        },
+        "powiekszone": {
+          "_text": "10"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "11-m"
+        },
+        "powiekszone": {
+          "_text": "11"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "12-m"
+        },
+        "powiekszone": {
+          "_text": "12"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "13-m"
+        },
+        "powiekszone": {
+          "_text": "13"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "14-m"
+        },
+        "powiekszone": {
+          "_text": "14"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "15-m"
+        },
+        "powiekszone": {
+          "_text": "15"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "16-m"
+        },
+        "powiekszone": {
+          "_text": "16"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "17-m"
+        },
+        "powiekszone": {
+          "_text": "17"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "18-m"
+        },
+        "powiekszone": {
+          "_text": "18"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "19-m"
+        },
+        "powiekszone": {
+          "_text": "19"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "20-m"
+        },
+        "powiekszone": {
+          "_text": "20"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "21-m"
+        },
+        "powiekszone": {
+          "_text": "21"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "22-m"
+        },
+        "powiekszone": {
+          "_text": "22"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "23-m"
+        },
+        "powiekszone": {
+          "_text": "23"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "24-m"
+        },
+        "powiekszone": {
+          "_text": "24"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "25-m"
+        },
+        "powiekszone": {
+          "_text": "25"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "26-m"
+        },
+        "powiekszone": {
+          "_text": "26"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "27-m"
+        },
+        "powiekszone": {
+          "_text": "27"
+        }
+      },
+      {
+        "miniatura": {
+          "_text": "28-m"
+        },
+        "powiekszone": {
+          "_text": "28"
+        }
+      }
+    ]
+  }
+}

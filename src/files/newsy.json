@@ -1,0 +1,525 @@
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "UTF-8"
+    }
+  },
+  "newsy": {
+    "news": [
+      {
+        "data": {
+          "_text": "24.06.2017"
+        },
+        "tytul": {
+          "_text": "Pinkin Rodzinny w Sułkowicach"
+        },
+        "tresc": {
+          "_text": "Songo tym razem na \"Pikniku Rodzinym w Sułkowicach\""
+        },
+        "zdjecie": {
+          "_text": "http://www.mamnewsa.pl/!data/newsy/news_17306.jpg?lc=1498318147"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.mamnewsa.pl/newsy,17306-region-festyni--pikniki-koncert-i-swietna-pogoda"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "19.03.2017"
+        },
+        "tytul": {
+          "_text": "Targi Ślubne w Oświęcimiu"
+        },
+        "tresc": {
+          "_text": "Zespół wystąpił na targach ślubnych w Oświęcimiu - sala balowa  Hellada. Organizatorom dziękujemy za serdeczne przyjęcie i profesjonalizm."
+        },
+        "zdjecie": {
+          "_text": "http://faktyoswiecim.pl/wp-content/uploads/2017/03/2017_03_13_targi-4-1024x681.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://faktyoswiecim.pl/dzieje-sie/kultura-i-rozrywka/w-niedziele-vi-regionalne-targi-slubne/c"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "11.02.2017"
+        },
+        "tytul": {
+          "_text": "Bal Walentynkowy w Wilkowicach"
+        },
+        "tresc": {
+          "_text": "Bal walentynkowy zakończony sukcesem:)"
+        },
+        "zdjecie": {
+          "_text": "http://wilkowice.straz.pl/wp-content/uploads/2017/01/15975267_1345594538795101_7297738012530895744_o.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://wilkowice.straz.pl/bal-walentynkowy/"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "14.01.2017"
+        },
+        "tytul": {
+          "_text": "Zabawa w Starej Wsi"
+        },
+        "tresc": {
+          "_text": "I kolejna zabawa w Starej Wsi już za nami. Zapraszamy za rok."
+        },
+        "zdjecie": {
+          "_text": "http://www.ospstarawies.pl/img/rem.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "https://www.facebook.com/SongoZuza/photos/a.432063676940814.1073741829.228713513942499/760081990805646/?type=3&theater"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "2.12.2016"
+        },
+        "tytul": {
+          "_text": "Gdy Śliczna Panna"
+        },
+        "tresc": {
+          "_text": "Właśnie powstała pierwsza kolejna grupy Songo And Zuza. "
+        },
+        "zdjecie": {
+          "_text": "http://94.72.87.82/portal_sp5/images/gifyyy/mikolaj.gif"
+        },
+        "linki": {
+          "link": {
+            "_text": "https://www.youtube.com/watch?v=DdR1vgpmBAo"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "21.08.2016"
+        },
+        "tytul": {
+          "_text": "Dożynki Gminne w Osieku"
+        },
+        "tresc": {
+          "_text": "Na dozynkach w Osieku wystąpił z nami na jednej scenie zespół Krywań"
+        },
+        "zdjecie": {
+          "_text": "http://www.osiek.pl//images/rsgallery/display/dgo2016_12.jpg.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.osiek.pl/index.php/fotogalerie/category/111"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "7.08.2016"
+        },
+        "tytul": {
+          "_text": "Otwarcie Nowego Centrum Logistycznego BULTEN POLSKA S.A."
+        },
+        "tresc": {
+          "_text": "W Gminnej Strefie Aktywności Gospodarczej nastąpiło uroczyste otwarcie Nowego Centrum Logistycznego BULTEN POLSKA S.A. w Wilkowicach. Nasza kapela wystąpiłą grając tylko i wyłącznie standardy muzyki światowej i jazzowej."
+        },
+        "zdjecie": {
+          "_text": "http://www.wilkowice.pl/uploads/news/post/image/1083/IMG_0097.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.wilkowice.pl/news/1083-otwarcie-nowego-centrum-logistycznego-bulten-polska-s-a-w-wilkowicach"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "20.03.2016"
+        },
+        "tytul": {
+          "_text": "Targi Ślubne - Hellada"
+        },
+        "tresc": {
+          "_text": "Wystąpiliśmy na targach ślubnych w Oświęcimiu (sala bankietowa- Hellada ). Organizatorom dziękujemy za profesjonalizm i gorące przyjęcie."
+        },
+        "zdjecie": {
+          "_text": "http://studioimprezabi.pl/wp-content/uploads/2016/03/5-regionalne-targi-slubne-plakat.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://studioimprezabi.pl/v-regionalne-targi-slubne-oswiecimu/"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "5.02.2016"
+        },
+        "tytul": {
+          "_text": "Wernisaż"
+        },
+        "tresc": {
+          "_text": "Tym razem grupa Songo na Jazzowo na wernisażu obrazów Pana Adama Jacka Kozaka"
+        },
+        "zdjecie": {
+          "_text": "http://www.galeriasar.pl/upload/galeria/__086d474d62d6ca813cb5ff5c20eee02f.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://nowiny.andrychow.eu/artykul/1137-wystawa_adama_kozaka_w_mdk"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "2.02.2016"
+        },
+        "tytul": {
+          "_text": "Zabawa dla dzieci w Sułkowicach"
+        },
+        "tresc": {
+          "_text": "ZESPÓŁ SONGO & ZUZA PRZYGRYWAŁ NA ZABAWIE SZKOLNEJ DLA DZIECI W SZKOLE W SUŁKOWICACH"
+        },
+        "zdjecie": {
+          "_text": "http://www.edukacja.andrychow.eu/509cf522000777f3100003200258.image.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.edukacja.andrychow.eu/placowki/zespoly-szkol/zespol-szkol-samorzadowych-w-sulkowicach-legu-134/kontakt/"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "30.01.2016"
+        },
+        "tytul": {
+          "_text": "Zabawa w Targanicach Dolnych"
+        },
+        "tresc": {
+          "_text": "30.01.2016r. Zabawa z zespołem Songo & Zuza w Targanicach dolnych po zebraniu walnym. Dziękujemy za wspaniała zabawę i gratulujemy wyboru prezesa P. Józefa Sordyla"
+        },
+        "zdjecie": {
+          "_text": "http://nowiny.andrychow.eu/galeria/artykul/medium/DSC09058.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://nowiny.andrychow.eu/artykul/1143-podsumowali_rok_i_wybrali_nowy_zarzad"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "16.01.2016"
+        },
+        "tytul": {
+          "_text": "Studniówka LO Kalwaria"
+        },
+        "tresc": {
+          "_text": "Dziękujemy wszystkim gościom za zabawę do późnego  rana. To nasza kolejna współpraca z DJ Karolo. Zapraszamy do galerii"
+        },
+        "zdjecie": {
+          "_text": "http://www.mamnewsa.pl/!data/images/b_143755_10012016_dsc_0157.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.lokalwaria.iap.pl/cms/index.php?view=category&catid=222&option=com_joomgallery&Itemid=88"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "2.01.2016"
+        },
+        "tytul": {
+          "_text": "Impreza firmowa w Wilamowicach"
+        },
+        "tresc": {
+          "_text": "Wystąpiliśmy na zabawie firmowej w restauracji Rogowa Wilamowice"
+        },
+        "zdjecie": {
+          "_text": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2MlLoKy8DxlqXrmr7Pv47X7WaiDQkMAv8crFaTkemQKpwU_y"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.restauracjarogowa.pl/"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "31.12.2015"
+        },
+        "tytul": {
+          "_text": "Sylwester Roczyny"
+        },
+        "tresc": {
+          "_text": "Organizatorom i gościom dziękujemy za wspaniałą zabawę"
+        },
+        "zdjecie": {
+          "_text": "http://kukle.pl/wp-content/uploads/2015/10/sylwester2016.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.osp.roczyny.pl/index.php?start=5"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "6.12.2015"
+        },
+        "tytul": {
+          "_text": "Targi Ślubne-Karpik"
+        },
+        "tresc": {
+          "_text": "6 grudnia wystąpiliśmy na targach ślubnych w Karpiku-Graboszyce."
+        },
+        "zdjecie": {
+          "_text": "https://lh3.googleusercontent.com/proxy/f8Cd3MNm_MMoGFmGJN_OsXy9RsQZWrnimj_SazgefubYX0Uo1y8bTD6vwmX4qJx0bGGoPEJP78s7G0IPWw0zRaLJs-3Zj64OUnxJYS4NAw=w506-h328"
+        },
+        "linki": {
+          "link": {
+            "_text": "https://plus.google.com/+Zator24Pl/posts/GFEA7ghRJYr"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "28.11.2015"
+        },
+        "tytul": {
+          "_text": "Andrzejki w Roczynach"
+        },
+        "tresc": {
+          "_text": "Dziękujemy wszystkim gościom za wspaniałą zabawę Andrzejkową w Roczynach "
+        },
+        "zdjecie": {
+          "_text": "http://www.osp.roczyny.pl/images/plakat-andrzejki-sf.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.osp.roczyny.pl/index.php/the-news.html?start=10"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "21.11.2015"
+        },
+        "tytul": {
+          "_text": "MDK Katowice-Bogucice"
+        },
+        "tresc": {
+          "_text": "21 listopada 2015 zagraliśmy na imprezie górniczej w Mdk Katowice-Bogucice. Szczególne podziękowania ślemy dla Kuby Abrachamowicza"
+        },
+        "zdjecie": {
+          "_text": "http://www.mdkbogucice-zawodzie.pl/userfiles/35e8f_nck_copy2.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.mdkbogucice-zawodzie.pl/"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "13.09.2015"
+        },
+        "tytul": {
+          "_text": "Grzegorz Stasiak"
+        },
+        "tresc": {
+          "_text": "OSTATNIO MIELIŚMY OKAZJĘ WSPÓŁPRACOWAĆ ZE ZNANYM AKTOREM I KABARECIARZEM. GRZEGORZ STASIAK BRAŁ UDZIAŁ\n            MIN. W TAKIM PROGRAMIE JAK ŚLĄSKA NAUKA JAZDY A TAKŻE W SERIALU \"Święta Wojna\".\n        "
+        },
+        "zdjecie": {
+          "_text": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Grzegorz_Stasiak.jpg/180px-Grzegorz_Stasiak.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://pl.wikipedia.org/wiki/Grzegorz_Stasiak"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "13.09.2015"
+        },
+        "tytul": {
+          "_text": "Bulten Polska SA"
+        },
+        "tresc": {
+          "_text": "Kolejna impreza zakładowa firmy Bulten Polska Sa. Tym razem otwarcie nowego zakładu w Wilkowicach.\n        "
+        },
+        "zdjecie": {
+          "_text": "http://www.bulten.com/~/media/Images/Locations/Bulten-Polska.ashx?h=245&la=en&w=702"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.bulten.com/en/Contact/Units/Bielsko-Biala"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "6.09.2015"
+        },
+        "tytul": {
+          "_text": "Dożynki Sułkowice-Dzielec"
+        },
+        "tresc": {
+          "_text": "Zła pogoda nie zniechęciła wytrwałych gości do dobrej zabawy"
+        },
+        "zdjecie": {
+          "_text": "http://kultura.andrychow.eu/images/programy2015/gmina/DOZYNKI15_A2_INTERNET.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.mamnewsa.pl/kultura,8010-andrychow-andrychow--sulkowice"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "27.08.2015"
+        },
+        "tytul": {
+          "_text": "Czwartek w Bukowinie Tatrzańskiej"
+        },
+        "tresc": {
+          "_text": "Zaledwie w ostatni czwartek zostaliśmy zaproszeni na imprezę firmową Solidarności Grupy Kęty w ośrodku\n            wypoczynkowym Stasinda. Ośrodek lezy w malowniczej Bukowinie Tatrzańskiej\n        "
+        },
+        "zdjecie": {
+          "_text": "http://www.stasinda.com.pl/zdjecia/bukowina_stasinda_top1.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.stasinda.com.pl/kontakt.html"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "23.08.2015"
+        },
+        "tytul": {
+          "_text": "Dożynki Gminy Osiek"
+        },
+        "tresc": {
+          "_text": "Organizatorom dziękujemy za ciepłe przyjęcie"
+        },
+        "zdjecie": {
+          "_text": "http://www.radiopik.pl/public/55/67/2013-10-25_1382724367_2.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.niewidomi.sejmik.kielce.pl/-/dozynki-gminy-osiek"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "16.05.2015"
+        },
+        "tytul": {
+          "_text": "Piknik w Inwałdzie"
+        },
+        "tresc": {
+          "_text": "Zapraszamy na Piknik Rodzinny w Zespole Szkół Samorządowych w Inwałdzie, na którym będziemy mieli okazję\n            wystąpić od godziny 18.00-20.00 w sobotę 16 maja 2015!Do zobaczenia!\n        "
+        },
+        "zdjecie": {
+          "_text": "http://www.zsturzepole.edu.pl/wp-content/uploads/2011/03/szkola.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.zssinwald.com.pl/Inwald2013/Inwald/"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "14.02.2015"
+        },
+        "tytul": {
+          "_text": "Fundacja Promyczek"
+        },
+        "tresc": {
+          "_text": "HOTEL & SPA CZARNY GROŃ ZAPRASZA NA WYJĄTKOWY BAL CHARYTATYWNY W STYLU LAT 20-TYCH, KTÓRY ODBĘDZIE\n            SIĘ W SALI BALOWEJ.ZAPOWIADA SIĘ ŚWIETNA ZABAWA PRZY MUZYCE NA ŻYWO.GRA ZESPÓŁ SONGO &\n            ZUZA.ORGANIZATORZY GWARANTUJĄ WSPANIAŁĄ ZABAWĘ W SZCZYTNYM CELU.CZEKAMY 14 LUTEGO 2015 R. O GODZ.\n            19.00rezerwacje:centrumpromyczek@gmail.comlub pod nr tel. 500 209 666oraz recepcja@czarnygron.pl33 5065100W\n            cenie biletu CEGIEŁKA NA FUNDACJĘ PROMYCZEK\n        "
+        },
+        "zdjecie": {
+          "_text": "http://www.mamnewsa.pl/!data/hotel_czarny_gron.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://www.czarnygron.pl/hotel-spa/imprezy"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "15.02.2015"
+        },
+        "tytul": {
+          "_text": "Kręgielnia Wadowice"
+        },
+        "tresc": {
+          "_text": "15 lutego 2015 zapraszamy do kręgielni w Wadowicach. Będzie impreza na której zagramy:) Zapraszamy\n            serdecznie\n        "
+        },
+        "zdjecie": {
+          "_text": "http://klubkregielnia.pl/!data/images/174527_12012015_46.jpg"
+        },
+        "linki": {
+          "link": {
+            "_text": "http://klubkregielnia.pl/"
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "31.01.2015"
+        },
+        "tytul": {
+          "_text": "Zabawa Karnawałowa"
+        },
+        "tresc": {
+          "_text": "już 31 stycznia 2015r. można zabawić sie przy naszej muzyce na zabawie karnawałowej organizowanej przez\n            Osp Targanice Dolne. Zapraszamy\n        "
+        },
+        "zdjecie": {
+          "_text": "\n            http://www.straz.wadowice.internetdsl.pl/foto/zakladki_osp/targanice_dolne/Kopia%20OSP%20TARGANICE%20DOLNE.JPG\n        "
+        },
+        "linki": {
+          "link": {
+            "_text": "\n                http://www.andrychow.eu/katalog-firm/organizacje-pozarzadowe,ochotnicze-straze-pozarne/osp-targanice-dolne-273/\n            "
+          }
+        }
+      },
+      {
+        "data": {
+          "_text": "6.02.2015"
+        },
+        "tytul": {
+          "_text": "Kolejna impreza w Magiku!"
+        },
+        "tresc": {
+          "_text": "Już 6 lutego zapraszamy wszystkich Państwa na imprezę taneczną z naszym udziałem w restauracji Magik\n        "
+        },
+        "zdjecie": {
+          "_text": "\n            http://magik.andrychow.pl/wp-content/gallery/imprezy/egipt-marsa-alam-maj-2011-dancing-nie-ma-sprawy-magik-elewacja-230.jpg\n        "
+        },
+        "linki": {
+          "link": {
+            "_text": "http://magik.andrychow.pl/"
+          }
+        }
+      }
+    ]
+  }
+}

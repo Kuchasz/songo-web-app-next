@@ -1,0 +1,494 @@
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "utf-8",
+      "standalone": "yes"
+    }
+  },
+  "plyty": {
+    "plyta": [
+      {
+        "tytul": {
+          "_text": "Songo"
+        },
+        "okladka": {
+          "_text": "cover_jedynka.jpg"
+        },
+        "opis": {
+          "_text": "Na tej płycie zespół Songo and Zuza wykonuje utwory muzyki tanecznej"
+        },
+        "utwory": {
+          "utwor": [
+            {
+              "tytul": {
+                "_text": "Tańczę z nim do rana"
+              },
+              "autor": {
+                "_text": "Majk"
+              },
+              "link": {
+                "_text": "t_15_tancze_z_nim_do_rana.mp3"
+              },
+              "dlugosc": {
+                "_text": "289"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "I will always love you"
+              },
+              "autor": {
+                "_text": "W. Houston"
+              },
+              "link": {
+                "_text": "t_1_i_will_always_love_you.mp3"
+              },
+              "dlugosc": {
+                "_text": "289"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Takiego Janicka"
+              },
+              "autor": {
+                "_text": "Siklawa"
+              },
+              "link": {
+                "_text": "t_2_takiego_janicka.mp3"
+              },
+              "dlugosc": {
+                "_text": "239"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Zatańczysz ze mną"
+              },
+              "autor": {
+                "_text": "K. Krawczyk"
+              },
+              "link": {
+                "_text": "t_3_zatanczysz_ze_mna.mp3"
+              },
+              "dlugosc": {
+                "_text": "223"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Kocham Cię"
+              },
+              "autor": {
+                "_text": "S. Uniatowski"
+              },
+              "link": {
+                "_text": "t_4_kocham_cie.mp3"
+              },
+              "dlugosc": {
+                "_text": "223"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Wasted – Pa pa"
+              },
+              "autor": {
+                "_text": "Margaret"
+              },
+              "link": {
+                "_text": "t_5_wasted.mp3"
+              },
+              "dlugosc": {
+                "_text": "227"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Polka dziadek"
+              },
+              "autor": {
+                "_text": "z rep. lud."
+              },
+              "link": {
+                "_text": "t_6_polka_dziadek.mp3"
+              },
+              "dlugosc": {
+                "_text": "232"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "What a wonderful world"
+              },
+              "autor": {
+                "_text": "L. Armstrong"
+              },
+              "link": {
+                "_text": "t_7_what_a_wonderful_world.mp3"
+              },
+              "dlugosc": {
+                "_text": "295"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Marsz niemiecki"
+              },
+              "autor": {
+                "_text": "z rep. lud."
+              },
+              "link": {
+                "_text": "t_8_marsz_niemiecki.mp3"
+              },
+              "dlugosc": {
+                "_text": "160"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Mamma mia"
+              },
+              "autor": {
+                "_text": "ABBA"
+              },
+              "link": {
+                "_text": "t_9_mamma_mia.mp3"
+              },
+              "dlugosc": {
+                "_text": "220"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Yakety sax"
+              },
+              "autor": {
+                "_text": "B. Randolph"
+              },
+              "link": {
+                "_text": "t_10_yakety_sax.mp3"
+              },
+              "dlugosc": {
+                "_text": "158"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Wiązanka walców"
+              },
+              "autor": {
+                "_text": "z rep. lud."
+              },
+              "link": {
+                "_text": "t_11_wiazanka_walcow.mp3"
+              },
+              "dlugosc": {
+                "_text": "251"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Kanikuły"
+              },
+              "autor": {
+                "_text": "Code Red"
+              },
+              "link": {
+                "_text": "t_13_kanikuly.mp3"
+              },
+              "dlugosc": {
+                "_text": "223"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Lilly was here"
+              },
+              "autor": {
+                "_text": "Code. Dulfer"
+              },
+              "link": {
+                "_text": "t_14_lilly_was_here.mp3"
+              },
+              "dlugosc": {
+                "_text": "223"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "tytul": {
+          "_text": "New project"
+        },
+        "okladka": {
+          "_text": "cover_wlasne.jpg"
+        },
+        "opis": {
+          "_text": "Ta płyta zawiera autorskie nagrania zespołu Songo and Zuza"
+        },
+        "utwory": {
+          "utwor": [
+            {
+              "tytul": {
+                "_text": "Andrychowski Rock and Roll"
+              },
+              "autor": {
+                "_text": "z rep. Songo & Zuza"
+              },
+              "link": {
+                "_text": "n_1_andrychowski_rock_and_roll.mp3"
+              },
+              "dlugosc": {
+                "_text": "185"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Robie to co chce"
+              },
+              "autor": {
+                "_text": "z rep. Songo & Zuza and THOMAS"
+              },
+              "link": {
+                "_text": "n_2_robie_co_chce.mp3"
+              },
+              "dlugosc": {
+                "_text": "185"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Chciałabym ci dać chciała"
+              },
+              "autor": {
+                "_text": "z rep. Songo & Zuza"
+              },
+              "link": {
+                "_text": "n_3_chciala_bym_ci_dac_chciala.mp3"
+              },
+              "dlugosc": {
+                "_text": "185"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Jesteś mój"
+              },
+              "autor": {
+                "_text": "z rep. Songo & Zuza"
+              },
+              "link": {
+                "_text": "n_4_jestes_moj.mp3"
+              },
+              "dlugosc": {
+                "_text": "185"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "tytul": {
+          "_text": "Święta z Songo & Zuza"
+        },
+        "okladka": {
+          "_text": "cover_swiateczne.jpg"
+        },
+        "opis": {
+          "_text": "Na tej płycie zespół Songo and Zuza wykonuje utwory świąteczne i religijne"
+        },
+        "utwory": {
+          "utwor": [
+            {
+              "tytul": {
+                "_text": "Jingle Bells"
+              },
+              "autor": {
+                "_text": "utwór świąteczny"
+              },
+              "link": {
+                "_text": "s_1_jingle_bells.mp3"
+              },
+              "dlugosc": {
+                "_text": "199"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Gdy Śliczna Panna"
+              },
+              "autor": {
+                "_text": "kołysanka"
+              },
+              "link": {
+                "_text": "s_2_gdy_sliczna_panna.mp3"
+              },
+              "dlugosc": {
+                "_text": "93"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Barka"
+              },
+              "autor": {
+                "_text": "utwór nagrany z okazji stulecia  urodzin Jana Pawła II"
+              },
+              "link": {
+                "_text": "s_3_barka.mp3"
+              },
+              "dlugosc": {
+                "_text": "127"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "tytul": {
+          "_text": "The instrumental standards"
+        },
+        "okladka": {
+          "_text": "cover_standardy.jpg"
+        },
+        "opis": {
+          "_text": "Na tej płycie zespół Songo and Zuza wykonuje światowe standardy w wersjach instrumentalnych"
+        },
+        "utwory": {
+          "utwor": [
+            {
+              "tytul": {
+                "_text": "All of me"
+              },
+              "autor": {
+                "_text": "G. Marks"
+              },
+              "link": {
+                "_text": "all_of_me.mp3"
+              },
+              "dlugosc": {
+                "_text": "172"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Petit Flour"
+              },
+              "autor": {
+                "_text": "S. Bechet"
+              },
+              "link": {
+                "_text": "petit_flour.mp3"
+              },
+              "dlugosc": {
+                "_text": "227"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Tico, tico"
+              },
+              "autor": {
+                "_text": "Z. Abreu"
+              },
+              "link": {
+                "_text": "tico_tico.mp3"
+              },
+              "dlugosc": {
+                "_text": "263"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "I can't stop loving you"
+              },
+              "autor": {
+                "_text": "R. Charles"
+              },
+              "link": {
+                "_text": "i_can_stop.mp3"
+              },
+              "dlugosc": {
+                "_text": "352"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Oczy czarne"
+              },
+              "autor": {
+                "_text": "J. Hrebinka"
+              },
+              "link": {
+                "_text": "oczy_czarne.mp3"
+              },
+              "dlugosc": {
+                "_text": "174"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "tytul": {
+          "_text": "Church songs"
+        },
+        "okladka": {
+          "_text": "cover_church.jpg"
+        },
+        "opis": {
+          "_text": "Na tej płycie zespół Songo and Zuza wykonuje utwory grane w kościele"
+        },
+        "utwory": {
+          "utwor": [
+            {
+              "tytul": {
+                "_text": "Barka instrumentalnie"
+              },
+              "autor": {
+                "_text": "C. Gabarain"
+              },
+              "link": {
+                "_text": "barka.mp3"
+              },
+              "dlugosc": {
+                "_text": "199"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Ave Maria"
+              },
+              "autor": {
+                "_text": "F. Schubert"
+              },
+              "link": {
+                "_text": "ave_maria.mp3"
+              },
+              "dlugosc": {
+                "_text": "93"
+              }
+            },
+            {
+              "tytul": {
+                "_text": "Ave Maria"
+              },
+              "autor": {
+                "_text": "J.S. Bach"
+              },
+              "link": {
+                "_text": "ave_maria_bach.mp3"
+              },
+              "dlugosc": {
+                "_text": "127"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "utf-8",
+      "standalone": "yes"
+    }
+  },
+  "onas": {
+    "okims": [
+      {
+        "imie": {
+          "_text": "Wojtek"
+        },
+        "opis": {
+          "_text": "Gra na saksofonach (sopran, alt, tenor, baryton), klarnecie, flecie prostym i poprzecznym, klawiszach, akordeonie a także śpiewa. Naukę rozpoczął w wieku 6lat w Ognisku Muzycznym w Andrychowie w klasie akordeonu oraz fortepianu. Następnie ukończył wadowicką szkołę muzyczną I stopnia w klasie klarnetu, po czym podjął naukę w Bielskim Liceum Muzycznym także w klasie klarnetu. Obenie jest absolwentem Akademii Muzycznej w Katowicach na wydziale Jazzu i Muzyki Rozrywkowej (klasa saksofonu) a jednocześnie absolwentem na Wydziale Klasycznym (klasa klarnetu). Prowadzi swoją własną szkółkę muzyczną. Gra w różnego typu big-bandach, zespołach jazzowych i rozrywkowych. Brał czynny udział w wielu konkursach, festiwalach i warsztatach muzycznych. Wielokrotnie pokazywał się w programach telewizyjnych a także wystąpił ze znanymi gwiazdami polskiej estrady. Niejednokrotnie działał jako muzyk sesyjny i dokonał wielu nagrań płytowych. Proponuje muzykę w zależności od potrzeb: trochę jazzu, lekkiego popu, house, hip-hop, funky, gospel i wiele innych."
+        },
+        "thumb": {
+          "_text": "wojtek"
+        },
+        "whatplay": {
+          "_text": "Saksofony, Klawisze"
+        }
+      },
+      {
+        "imie": {
+          "_text": "Zuza"
+        },
+        "opis": {
+          "_text": "Gra na fortepianie i akordeonie a ponadto wiedze główny wokal żeński w zespole. Absolwentka Uniwersytetu Śląskiego w Katowicach, na Wydziale Artystycznym w Cieszynie. Laureatka wielu konkursów wokalnych np. \"Niemiecki Kwartet Żeński\" czy \"Wadowicka Szansa na sukces\". Przez 4 lata śpiewała w chórze \"Wadowice\". Brała czynny udział śpiewając w różnego typu zespołach wokalno-instrumentalnych, oraz big-bandach. Brała udział także w prestiżowych programach telewizyjnych m. in. \"Szansa na Sukces\", czy \"Droga do Gwiazd\"."
+        },
+        "thumb": {
+          "_text": "zuza"
+        },
+        "whatplay": {
+          "_text": "Wokal"
+        }
+      },
+      {
+        "imie": {
+          "_text": "Tomek"
+        },
+        "opis": {
+          "_text": "Gra na gitarze, gitarze basowej, kontrabasie, klawiszach, akordeonie, buzuki, trąbce, fletni pana , a także śpiewa. Obecnie jest Absolwentem Uniwersytetu Śląskiego w Katowicach, na Wydziale Artystycznym w Cieszynie  ( klasa gitary ). Przez wiele lat zajmował się prowadzeniem chórów oraz zespołów wokalno-instrumentalnych i robi to do dziś. Pracuje także jako nauczyciel gry na instrumencie , działając głównie na terenie śląska i małopolski. W 1994 roku zdobył wyróżnienie na „Podbeskidzkim Festiwalu Piosenki Religijnej w Andrychowie” , gdzie następnie zasiadał w jury. Jako muzyk jest często zapraszany na wszelkiego rodzaju festiwale, konkursy , przeglądy , a także na nagrania płytowe w znanych studiach nagrań. Oprócz tego systematycznie udziela się w różnego typu orkiestrach, big-bandach oraz zespołach na terenie całego kraju i nie tylko."
+        },
+        "thumb": {
+          "_text": "tomek"
+        },
+        "whatplay": {
+          "_text": "Gitara basowa"
+        }
+      },
+      {
+        "imie": {
+          "_text": "Edek"
+        },
+        "opis": {
+          "_text": "Gra na gitarze basowej, kontrabasie, gitarze solowej, akordeonie, saksofonie, klarnecie a ponadto wiedzie główny wokal męski w zespole. Edukację muzyczną rozpoczął w 1967r. w Ognisku Muzycznym w Andrychowie (klasa akordeonu). W 1972 roku podjął naukę w Bielskim Liceum Muzycznym u prof. F. Niedzieli - klasa klarnetu. Udzielał się w różnego typu zespołach rozrywkowych i orkiestrach. Przez okres około 7 lat grał systematycznie dancingi w wielu knajpach, głównie na terenie Bielska-Białej. Prowadził także własny chór i zdobył I miejsce w konkursie wokalnym zorganizowanym przez gazetę krakowską na terenie Podbeskidzia. W zespole cieszy się najdłuższym stażem występując w różnych składach już przez 40lat."
+        },
+        "thumb": {
+          "_text": "edek"
+        },
+        "whatplay": {
+          "_text": "Wokal, Saksofony, Akordeon"
+        }
+      },
+      {
+        "imie": {
+          "_text": "Piotrek"
+        },
+        "opis": {
+          "_text": "Jako członek zespołu SONGO gra na perkusji, klarnecie, ksylofonie, fortepianie.  Zawodowy muzyk, ukończył Szkołę Muzyczną I stopnia w Wadowicach (klasa fortepianiu) oraz II stopnia w Żywcu (klasa perkusji). Jest  absolwentem Uniwersytetu Śląskiego w Katowicach na wydziale Artystycznym, gdzie przez kilka lat był członkiem Akademickiej Orkiestry Dętej. Od wielu lat jest aktywnym członkiem i działaczem Stowarzyszenia „Miejska Orkiestra Dęta ANDROPOL”, a także jej wiceprezesem. Wraz z andrychowską orkiestrą brał udział w wielu prestiżowych przeglądach Orkiestr Dętych, festiwalach, koncertach. Dodatkowo występuje z różnego typu formacjami, zespołami rozrywkowymi oraz orkiestrami. Oprócz tego zgodnie ze swoim wykształceniem, udziela lekcji gry na instrumentach."
+        },
+        "thumb": {
+          "_text": "piotrek"
+        },
+        "whatplay": {
+          "_text": "Instrumenty perkusyjne"
+        }
+      }
+    ]
+  }
+}
