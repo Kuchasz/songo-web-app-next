@@ -2,9 +2,10 @@ import { getAllPersons } from '../../../repositories/personRepository';
 import Link from 'next/link';
 import NavigationButton from '../../../components/NavigationButtons';
 
-export default async function PersonDetailPage({ params }: { params: { name: string } }) {
+export default async function PersonDetailPage({ params }: { params: Promise<{ name: string }> }) {
+    const { name } = await params;
     const persons = await getAllPersons();
-    const person = persons.find(p => p.name.toLowerCase() === params.name);
+    const person = persons.find(p => p.name.toLowerCase() === name.toLowerCase());
 
     if (!person) {
         return (
@@ -12,7 +13,7 @@ export default async function PersonDetailPage({ params }: { params: { name: str
                 <div className="max-w-4xl mx-auto">
                     <div className="bg-white rounded-3xl p-8 lg:p-12 shadow-xl text-center">
                         <h1 className="text-2xl font-bold text-gray-900 mb-4">Nie znaleziono osoby</h1>
-                        <NavigationButton 
+                        <NavigationButton
                             href="/person"
                             text="Powrót do listy osób"
                             type="primary"
@@ -47,12 +48,12 @@ export default async function PersonDetailPage({ params }: { params: { name: str
                     </div>
                 </div>
                 <div className="mt-12 flex justify-center gap-4">
-                    <NavigationButton 
+                    <NavigationButton
                         href="/person"
                         text="Powrót do listy osób"
                         type="primary"
                     />
-                    <NavigationButton 
+                    <NavigationButton
                         href="/"
                         text="Powrót do strony głównej"
                         type="secondary"
